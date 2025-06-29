@@ -5,3 +5,5 @@ this is check for feature branch
 this is for hotfix
 this is change for main branch.
 this is for merge test
+this is changes for feature1 branch
+this is merge
