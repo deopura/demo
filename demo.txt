@@ -4,4 +4,6 @@ this is for hotfix issue.
 this is check for feature branch
 this is for hotfix
 this is change for main branch.
-this is for merge test
+this is for merge test.
+This is main branch.
+this is for main branch conflict.
