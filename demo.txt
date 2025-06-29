@@ -7,3 +7,6 @@ this is change for main branch.
 this is for merge test.
 This is main branch.
 this is for main branch conflict.
+this is changes for feature1 branch
+this is merge
+
